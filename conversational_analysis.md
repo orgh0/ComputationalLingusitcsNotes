@@ -43,10 +43,10 @@
 * A linguistic repair may be marked by a hesitation and an editing term (such as, "I mean") and is sometimes regarded as a type of dysfluency.
 * Repairs are variously classified as
 * Types of Repair Sequences
-	-Self-initiated self-repair: Repair is both initiated and carried out by the speaker  the trouble source.
-	-Other-initiated self-repair: Repair is carried out by speaker of the trouble source but initiated by the recipient.
-	-Self-initiated other-repair: The speaker of a trouble source may try and get the recipient to repair the trouble--for instance if a name is proving troublesome to remember.
-	-Other-initiated other-repair: The recipient of a trouble source turn both initiates and carries out the repair. This is closest to what is conventionally called 'correction.'
+	- Self-initiated self-repair: Repair is both initiated and carried out by the speaker  the trouble source.
+	- Other-initiated self-repair: Repair is carried out by speaker of the trouble source but initiated by the recipient.
+	- Self-initiated other-repair: The speaker of a trouble source may try and get the recipient to repair the trouble--for instance if a name is proving troublesome to remember.
+	- Other-initiated other-repair: The recipient of a trouble source turn both initiates and carries out the repair. This is closest to what is conventionally called 'correction.'
 
 ## 4. Grounding
 *  It comprises the collection of "mutual knowledge, mutual beliefs, and mutual assumptions" that is essential for communication between two people.
