@@ -32,14 +32,13 @@
 ### 1.3 Adjacency Pairs
 * An Adjacency Pair is a 2 part exchange in which a second utterance is funtionally dependent on first, as exhibited in conversational greetings, invitations, requests. This concept is also called the concept of nextness
 * It's a type of turn-talking
-* 
 
-## Preference Organization
+## 2. Preference Organization
 * Conversational Analysis may reveal structural (i.e. practice-underwritten) preferences in conversation for some types of actions (within sequences of action) over others.
 * For example, responsive actions which agree with, or accept, positions taken by a first action tend to be performed more straightforwardly and faster than actions that disagree with, or decline, those positions.
 * The former is termed an unmarked turn shape, meaning the turn is not preceded by silence nor is it produced with delays, mitigation and accounts. The latter is termed marked turn shape, which describes a turn with opposite characteristics. One consequence of this is that agreement and acceptance are promoted over their alternatives, and are more likely to be the outcome of the sequence. Pre-sequences are also a component of preference organization and contribute to this outcome.
 
-## Repair
+## 3. Repair
 * Repair is the process by which a speaker recognizes a speech error and repeats what has been said with some sort of correction.  
 * A linguistic repair may be marked by a hesitation and an editing term (such as, "I mean") and is sometimes regarded as a type of dysfluency.
 * Repairs are variously classified as
@@ -49,7 +48,7 @@
 	-Self-initiated other-repair: The speaker of a trouble source may try and get the recipient to repair the trouble--for instance if a name is proving troublesome to remember.
 	-Other-initiated other-repair: The recipient of a trouble source turn both initiates and carries out the repair. This is closest to what is conventionally called 'correction.'
 
-## Grounding
+## 4. Grounding
 *  It comprises the collection of "mutual knowledge, mutual beliefs, and mutual assumptions" that is essential for communication between two people.
 * Successful grounding in communication requires parties "to coordinate both the content and process". The concept is also common in philosophy of language.
 * Phases in grounding
