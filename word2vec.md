@@ -24,7 +24,9 @@ No of Documents = D
 Number of Unique Tokens = N
 Size of Count Vector Matrix = D X N
 ```
+
 <br>
+
 ```
 An Example:
 D1: He is a lazy Boy, She is also lazy.
