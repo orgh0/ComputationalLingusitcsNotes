@@ -24,7 +24,7 @@ clustering step :
                                     return sum(weights of edges from nodes to v)
 ```
 
-##Properties of CW
+## Properties of CW
 - Efficiency is linear in the number of edges
 - COnvergence of the algorithm is not garunteed as due to random processing of the graph
 - Suitable for small world graphs
